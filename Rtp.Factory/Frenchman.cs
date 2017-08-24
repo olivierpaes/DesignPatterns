@@ -1,6 +1,6 @@
 ﻿namespace Rtp.Factory
 {
-    public  abstract partial class Person
+    public abstract partial class Person
     {
         /// <summary>
         /// This class is protected and an inner class so it is not possible to use the constructor from putside
