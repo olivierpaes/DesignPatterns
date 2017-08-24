@@ -7,6 +7,7 @@
         /// </summary>
         protected class Frenchman: Person
         {
+            
             /// <summary>
             /// Constructor is protected internal to make sure that it is useable by the Person class. 
             /// Only nternal should also do but only protected won't do the trick.
