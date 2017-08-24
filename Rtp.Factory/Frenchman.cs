@@ -11,7 +11,7 @@
             /// Constructor is protected internal to make sure that it is useable by the Person class. 
             /// Only nternal should also do but only protected won't do the trick.
             /// </summary>
-            protected internal  Frenchman() 
+            protected internal Frenchman() 
                 : base(new SocialSecurityNumberValidationStrategyForFrance())
             {
                 Language = "French";
